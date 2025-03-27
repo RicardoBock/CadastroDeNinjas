@@ -9,7 +9,7 @@ public class Controller {
 
     @GetMapping("/boasvindas")
     public String boasVindas(){
-        return "Essa é minha primeira mensagem";
+        return "Essa é minha primeira mensagem nesta Rota";
     }
 
 }
